@@ -1,0 +1,40 @@
+{
+    "articles": [
+        {
+            "title": "Breakthrough in Heart Disease Research",
+            "author": "Jane Doe",
+            "date": "2025-08-21",
+            "summary": "Scientists have discovered a new treatment that could significantly reduce the risk of heart disease.",
+            "content": "A team of researchers at the National Health Institute announced a major breakthrough in heart disease treatment. The new therapy, which targets cholesterol buildup, has shown promising results in early clinical trials.",
+            "source": "Health News Daily",
+            "tags": ["health", "research", "heart disease"]
+        },
+        {
+            "title": "Tech Giants Invest in Renewable Energy",
+            "author": "John Smith",
+            "date": "2025-08-20",
+            "summary": "Major technology companies are increasing investments in renewable energy projects.",
+            "content": "Several leading tech firms have pledged billions of dollars to support solar and wind energy initiatives, aiming to reduce their carbon footprint and promote sustainability.",
+            "source": "Tech Today",
+            "tags": ["technology", "renewable energy", "business"]
+        },
+        {
+            "title": "Global Markets Rally Amid Economic Recovery",
+            "author": "Emily Chen",
+            "date": "2025-08-19",
+            "summary": "Stock markets worldwide are experiencing a surge as economies recover from recent downturns.",
+            "content": "Investors are optimistic about the future, with many markets reaching new highs. Analysts attribute the rally to positive economic indicators and increased consumer confidence.",
+            "source": "Finance World",
+            "tags": ["finance", "markets", "economy"]
+        },
+        {
+            "title": "New Advances in Artificial Intelligence",
+            "author": "Carlos Rivera",
+            "date": "2025-08-18",
+            "summary": "Researchers unveil new AI models that outperform previous benchmarks in language understanding.",
+            "content": "The latest AI models demonstrate improved accuracy and efficiency in natural language processing tasks, opening new possibilities for automation and data analysis.",
+            "source": "AI Weekly",
+            "tags": ["artificial intelligence", "technology", "research"]
+        }
+    ]
+}
